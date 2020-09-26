@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the slack clone, my aim with this project, similar to the other clones i've posted, has been to improve my ability to at taking a mockup and creating an accurate representation, as well as build on my knowledge of using react components efficiently within a large scale app.
+
+This project was built with React.js for the Frontend, using es6/es7 javascript and version 16 standard React. This includes React Hooks and the Context API to distribute data efficiently across each component and modern js syntax like conditional rendering and destructuring.
+
+I chose firebase to handle the backend, as it is super lightweight and easy to setup yet powerful enough to provide fast data fetching, high security and generally nice, easy to read code.
+
+Feel free to check the live demo.
 
 ## Available Scripts
 
